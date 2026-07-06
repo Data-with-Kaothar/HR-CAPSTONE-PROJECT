@@ -162,7 +162,7 @@ The attrition rate was calculated by displaying employee counts as the **Percent
 
 ## Pivot Table Analysis
 
-**Figure 1. Pivot Table Analysis**
+**Pivot Table Analysis**
 
 > **![Pivot Table Analysis](images/Pivot_table.png)**
 
@@ -202,7 +202,7 @@ Following the completion of these steps, the dataset was consistent, complete, a
 
 ## HR Analytics Dashboard
 
-**Figure 2. HR Analytics Dashboard**
+**HR Analytics Dashboard**
 
 > **![HR Analytics Dashboard](images/Dashboard.png)**
 
