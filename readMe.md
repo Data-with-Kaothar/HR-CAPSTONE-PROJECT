@@ -164,9 +164,9 @@ The attrition rate was calculated by displaying employee counts as the **Percent
 
 **Figure 1. Pivot Table Analysis**
 
-> **![Pivot Table Analysis](images/pivot_table.png)**
+> **![Pivot Table Analysis](images/Pivot_table.png)**
 
-*Caption:* Pivot Tables summarizing workforce headcount, average salary, attrition rate, average performance score, and projected bonus payout across departments and performance bands.
+** Pivot Tables summarizing workforce headcount, average salary, attrition rate, average performance score, and projected bonus payout across departments and performance bands.
 
 ---
 
@@ -206,7 +206,7 @@ Following the completion of these steps, the dataset was consistent, complete, a
 
 > **![HR Analytics Dashboard](images/Dashboard.png)**
 
-*Caption:* HR Analytics Dashboard summarizing workforce KPIs, hiring trends, performance metrics, compensation, and projected bonus distribution.
+** HR Analytics Dashboard summarizing workforce KPIs, hiring trends, performance metrics, compensation, and projected bonus distribution.
 
 ---
 
