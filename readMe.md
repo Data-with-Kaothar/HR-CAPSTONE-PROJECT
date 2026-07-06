@@ -131,7 +131,7 @@ The **TEXTJOIN** function was used to combine the First Name and Last Name colum
 
 ### Department Name
 
-The **XLOOKUP** function was used to retrieve department names from a lookup table based on each employee's department code.
+The **XLOOKUP** function was used to retrieve department names from the department lookup table based on each employee's department code.
 
 ### Years of Service
 
@@ -166,7 +166,7 @@ The attrition rate was calculated by displaying employee counts as the **Percent
 
 > **![Pivot Table Analysis](images/Pivot_table.png)**
 
-** Pivot Tables summarizing workforce headcount, average salary, attrition rate, average performance score, and projected bonus payout across departments and performance bands.
+* Pivot Tables summarizing workforce headcount, average salary, attrition rate, average performance score, and projected bonus payout across departments and performance bands.
 
 ---
 
@@ -206,7 +206,7 @@ Following the completion of these steps, the dataset was consistent, complete, a
 
 > **![HR Analytics Dashboard](images/Dashboard.png)**
 
-** HR Analytics Dashboard summarizing workforce KPIs, hiring trends, performance metrics, compensation, and projected bonus distribution.
+* HR Analytics Dashboard summarizing workforce KPIs, hiring trends, performance metrics, compensation, and projected bonus distribution.
 
 ---
 
