@@ -170,6 +170,15 @@ The attrition rate was calculated by displaying employee counts as the **Percent
 
 ---
 
+## Formula Reference Table
+
+**Formula Reference Analysis**
+
+> **![Pivot Table Analysis](images/formular.png)**
+
+* Screenshot of the key Excel formulas used throughout the project, including lookup, text manipulation, and calculation functions applied during data cleaning and feature engineering.
+---
+
 ## Assumptions and Transformations
 
 The following assumptions and transformations were applied during the cleaning process:
